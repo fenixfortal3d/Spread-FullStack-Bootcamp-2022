@@ -1,0 +1,25 @@
+body{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body p{
+    color: gray;
+}
+
+.barra{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: rgb(224, 224, 224);
+    border: 1px solid rgb(187, 187, 187);
+    border-radius: 4px;
+    width: 350px;
+    height: 200px;
+}
+
+.central{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
